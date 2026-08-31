@@ -1,0 +1,8 @@
+pyspark
+openmeteo-requests
+pandas
+geopandas
+numpy
+requests-cache
+retry-requests
+matplotlib
